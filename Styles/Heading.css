@@ -1,0 +1,58 @@
+body{
+    margin:0px;
+}
+
+.Links-wrapper{
+    background-color:black;
+   display:flex;
+   justify-content:space-between;
+   align-items:center;
+   height:100px;
+   width:100%;
+   padding:10px 15px 10px 15px;
+}
+
+.Links-wrapper a{
+    color:white;
+    text-decoration:none;
+}
+
+.logo{
+    background-color:black;
+    height:100px;
+    width:300px;
+}
+
+.header-wrapper{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+}
+
+.Log-In{
+    color:white;
+    background-color:black;
+    font-size:1.25em;
+    border:Gray;
+    border-radius:3px;
+    padding-right:10px;
+    outline:none;
+}
+
+.Sign-Up{
+    color:white;
+    background-color:black;
+    font-size:1.25em;
+    border:Gray;
+    border-radius:3px;
+    padding-left:10px;
+    outline:none;
+}
+
+.buttons{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin:none;
+}
+
